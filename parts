@@ -1,0 +1,45 @@
+#Parts Here's a list of all diffrenet configurations and recommended parts for building a quadcopter based on the OpenDrone frame.
+
+
+
+##Configuration 1 This is a tested and proved configuration that provides abut 15 minutes of flight time. You'll need to do some soldering and need some basic knowledge on electronics to properly assemble all components together.
+
+###Frame & Avionics
+
+Component	Description	Approx. Cost	Links	Picture	Notes
+Flight Controller, GPS & Telemetry	HKPilot32 Autonomous Vehicle 32Bit Control Set w/ Power Module	US$178	HobbyKing		
+Arms	DJI F450 F550 Flame Wheel Frame Arms	US$17	Amazon		
+Motors	RC motor 650KV D4215 21 Outrunner brushless for Multi-rotor Aircraft DYS	$US25 x 4	Amazon		
+ESCs	Hobbyking YEP 40A (2~6S) SBEC Brushless Speed Controller	$US20 x 4	HobbyKing		
+Power Distribution Board	Power Distribution Board	US$4	HobbyKing		
+Battery	Turnigy nano-tech Ultimate 4450mah 6S2P 90C Lipo Pack	US$95	HobbyKing		
+Propellers	1238 12X3.8 Carbon Fiber Propellers	US$10 x 2	HobbyKing		
+Remote Control & Receiver	ARRIS RadioLink AT9 9-Channel 9CH 2.4GHz Transmitter + R9D Receiver (with S.Bus) for RC Airplane Quadcopter Helicopter	US$140	Amazon		
+	
+###Gimbal & FPV
+
+Component	Description	Approx. Cost	Links	Picture	Notes
+Gimbal Motors	RCTimer BGM2804 Brushless Gimbal Motor Hollow Shaft	US$12 x 2	eBay		
+Gimbal Controller	BGC 3.1 MOS Large Current 2-axis Brushless Gimbal Alexmos V2.3B5 Controller	US$15	eBay		
+Gimbal Vibration Damping Balls	Vibration Damping Balls	US$5	HobbyKing		
+FPV Camera	RunCam FULL HD 1080P 120 degree FPV CAMERA	US$55	HobbyKing		
+FPV Transmitter	Boscam TS832 32Ch 5.8Ghz 600mw Wireless Audio/Video Transmitter for FPV RC CN143	US$24	Amazon		
+FPV Screen & Receiver	FlySight 32 Ch Black Pearl 5.8Ghz 7" Diversity Monitor with Integrated Battery (RC801)	US$199	Amazon		
+Other Parts
+Component	Description	Approx. Cost	Links	Picture	Notes
+Step down voltage converter	Mini 3A DC-DC Converter Adjustable Step down Power Supply Module	US$1	eBay		
+Rocker Switch	Square On-Off Press Button 6 Pins Rocker Switches Toggles AC 250V 20A	US$3	eBay		
+Nuts & Bolts	Steel Lock Nut, Plain Finish, Gray (Pack of 100)	US$7	Amazon		
+0.45mm Pitch M2.5x12mm Hex Socket Button Head Bolt Screws 100pcs	US$9	Amazon		
+100Pcs 304HC Stainless Steel Countersunk Hex Key Bolt Screw M2.5x8mm	US$9	Amazon		
+Silicone Wire	10 Gauge Silicone Wire 10 feet	US$15	Amazon		
+Heat Shrink Tubing		US$6	Amazon		
+Bullet Connectors	XT60 High Quality Male & Female Bullet Connectors Plugs For RC LiPo Battery	US$4	Amazon		
+Battery Charger	Turnigy Accucel-6 50W 6A Balancer Charger LiPo LiFe NiMh NiCd JST-XH	US$42	Amazon		
+Cargo Delivery Servo	J-Deal® 5x Pcs SG90 Micro Servo Motor 9G RC Robot Helicopter Airplane Boat Controls	US$13	Amazon		
+Micro USB Connector for Smartphone	Ugreen Micro USB 2.0 OTG Cable On The Go Adapter Male Micro USB to Female USB for Smart Phones	US$5	Amazon		
+Pages 1
+Find a page or section…
+Configurations & Parts
+Other Parts
+Clone this wiki locally
